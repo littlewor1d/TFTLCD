@@ -1,0 +1,5 @@
+//
+//  AppDelegate.swift
+//  StocksApp
+//
+//  Cr
