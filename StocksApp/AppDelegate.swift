@@ -19,4 +19,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     // MARK: UISceneSession Lifecycle
 
-    func
+    func application(_ application: UIApplication, configurationFor
