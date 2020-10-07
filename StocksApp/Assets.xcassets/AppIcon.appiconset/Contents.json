@@ -11,4 +11,7 @@
       "size" : "20x20"
     },
     {
-      "idiom" : "iphon
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    
