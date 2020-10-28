@@ -1,2 +1,6 @@
 {
-  "info" 
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
