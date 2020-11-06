@@ -1,4 +1,6 @@
 {
   "images" : [
     {
-      "id
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
