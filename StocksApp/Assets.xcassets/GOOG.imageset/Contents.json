@@ -7,4 +7,8 @@
     {
       "filename" : "GOOG.png",
       "idiom" : "universal",
-      "sc
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+  
