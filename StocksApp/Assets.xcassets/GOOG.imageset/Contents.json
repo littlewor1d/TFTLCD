@@ -14,4 +14,8 @@
       "scale" : "3x"
     }
   ],
-  "inf
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
