@@ -6,4 +6,7 @@
     },
     {
       "filename" : "MSFT.png",
- 
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    
