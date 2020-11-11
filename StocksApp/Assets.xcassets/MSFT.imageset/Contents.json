@@ -2,4 +2,8 @@
   "images" : [
     {
       "idiom" : "universal",
-      "sca
+      "scale" : "1x"
+    },
+    {
+      "filename" : "MSFT.png",
+ 
