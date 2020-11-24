@@ -4,4 +4,5 @@
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
-        <capability name="System c
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+   
