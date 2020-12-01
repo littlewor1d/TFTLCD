@@ -11,4 +11,5 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="StocksApp" customModulePr
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="StocksApp" customModuleProvider="target" sceneMemberID="viewController">
+     
