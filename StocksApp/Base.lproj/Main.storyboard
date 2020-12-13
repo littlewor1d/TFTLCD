@@ -22,4 +22,4 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEn
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggi
