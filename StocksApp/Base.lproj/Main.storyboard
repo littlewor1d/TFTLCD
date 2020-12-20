@@ -23,4 +23,5 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DCO-MZ-hVg" userLabel="Name Label">
-                                <rect key="f
+                                <rect key="frame" x="366" y="84" width="8" height="21"/>
+ 
