@@ -33,4 +33,4 @@
                             </pickerView>
                             <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="3em-bw-3tW">
                                 <rect key="frame" x="188.5" y="429.5" width="37" height="37"/>
-     
+                                <color key="color" systemC
