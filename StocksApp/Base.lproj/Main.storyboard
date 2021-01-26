@@ -35,4 +35,4 @@
                                 <rect key="frame" x="188.5" y="429.5" width="37" height="37"/>
                                 <color key="color" systemColor="linkColor"/>
                             </activityIndicatorView>
-                            <label opa
+                            <label opaque="NO" userInteractionEnabled="NO" 
