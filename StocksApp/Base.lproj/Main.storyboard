@@ -41,4 +41,4 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEna
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriori
