@@ -55,4 +55,4 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="saB-Wn-Lha">
                                 <rect key="frame" x="366" y="145" width="8" height="20"/>
-                                <fontDescriptio
+                                <fontDescription key="fontDescription" type="system" pointSize="1
