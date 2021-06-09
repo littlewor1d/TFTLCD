@@ -71,4 +71,4 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clip
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode
