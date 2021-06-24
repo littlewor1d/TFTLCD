@@ -74,4 +74,5 @@
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Z2T-2R-qRS">
                                 <rect key="frame" x="324" y="130" width="50" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" secondItem="Z2T-2R-qRS" secondAttribute="height" multiplier="1:1" id="6ik-Ip-d
+                                    <constraint firstAttribute="width" secondItem="Z2T-2R-qRS" secondAttribute="height" multiplier="1:1" id="6ik-Ip-drL"/>
+                                    <const
