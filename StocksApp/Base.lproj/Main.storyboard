@@ -77,4 +77,5 @@
                                     <constraint firstAttribute="width" secondItem="Z2T-2R-qRS" secondAttribute="height" multiplier="1:1" id="6ik-Ip-drL"/>
                                     <constraint firstAttribute="height" constant="50" id="f8p-99-jJ7"/>
                                 </constraints>
-       
+                            </imageView>
+           
