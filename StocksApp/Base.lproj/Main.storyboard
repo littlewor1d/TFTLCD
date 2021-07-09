@@ -80,4 +80,5 @@
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemC
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <cons
