@@ -79,4 +79,5 @@
                                 </constraints>
                             </imageView>
                         </subviews>
-                        <viewLa
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+       
