@@ -84,4 +84,4 @@
                         <constraints>
                             <constraint firstItem="Z2T-2R-qRS" firstAttribute="top" secondItem="DCO-MZ-hVg" secondAttribute="bottom" constant="25" id="0FR-zq-AfR"/>
                             <constraint firstItem="KZb-6W-tiV" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="1hq-hN-WYj"/>
-                            <constraint firstItem="6Tk-OE-BBY" first
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="scg-go-Cf0" secondAttr
