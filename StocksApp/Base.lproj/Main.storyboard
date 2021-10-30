@@ -112,4 +112,6 @@
                             <constraint firstItem="rA1-kJ-raj" firstAttribute="top" secondItem="Iba-XM-Fxe" secondAttribute="bottom" constant="40" id="qC2-ff-rtX"/>
                             <constraint firstItem="lwg-Zk-y4M" firstAttribute="top" secondItem="rA1-kJ-raj" secondAttribute="bottom" constant="40" id="vNL-0C-LPY"/>
                             <constraint firstItem="D4L-dm-d5r" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.3" id="wfl-cT-93N"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="AI2-5W-Yr1" secondAttribute="trailing" constant="4
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="AI2-5W-Yr1" secondAttribute="trailing" constant="40" id="x2T-tY-xno"/>
+                        </constraints>
+    
