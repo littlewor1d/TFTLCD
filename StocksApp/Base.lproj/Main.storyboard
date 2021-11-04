@@ -115,4 +115,5 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="AI2-5W-Yr1" secondAttribute="trailing" constant="40" id="x2T-tY-xno"/>
                         </constraints>
                     </view>
-                  
+                    <connections>
+                        <outlet pro
