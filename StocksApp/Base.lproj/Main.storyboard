@@ -116,4 +116,4 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet pro
+                        <outlet property="activityIndicator" destination="3em-bw-3tW" id="bl
