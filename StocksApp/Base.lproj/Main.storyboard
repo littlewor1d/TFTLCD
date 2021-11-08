@@ -117,4 +117,4 @@
                     </view>
                     <connections>
                         <outlet property="activityIndicator" destination="3em-bw-3tW" id="bl0-wi-YX0"/>
-                        <outlet property="
+                        <outlet property="companyNameLabel" destination="DCO-MZ-hVg" id="JnF-vg
