@@ -119,4 +119,5 @@
                         <outlet property="activityIndicator" destination="3em-bw-3tW" id="bl0-wi-YX0"/>
                         <outlet property="companyNameLabel" destination="DCO-MZ-hVg" id="JnF-vg-O6V"/>
                         <outlet property="companyPickerView" destination="D4L-dm-d5r" id="stf-QH-BMa"/>
-                        <outlet property="companySymbolImage" destination="Z2T-2R-qRS" id="
+                        <outlet property="companySymbolImage" destination="Z2T-2R-qRS" id="bWa-k4-xzl"/>
+                        <outlet property
