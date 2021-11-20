@@ -120,4 +120,5 @@
                         <outlet property="companyNameLabel" destination="DCO-MZ-hVg" id="JnF-vg-O6V"/>
                         <outlet property="companyPickerView" destination="D4L-dm-d5r" id="stf-QH-BMa"/>
                         <outlet property="companySymbolImage" destination="Z2T-2R-qRS" id="bWa-k4-xzl"/>
-                        <outlet property="companySymbolLabel" destination="saB-Wn-Lha" id
+                        <outlet property="companySymbolLabel" destination="saB-Wn-Lha" id="KnU-AO-OYP"/>
+                        <outlet pr
