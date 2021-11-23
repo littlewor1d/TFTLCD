@@ -121,4 +121,5 @@
                         <outlet property="companyPickerView" destination="D4L-dm-d5r" id="stf-QH-BMa"/>
                         <outlet property="companySymbolImage" destination="Z2T-2R-qRS" id="bWa-k4-xzl"/>
                         <outlet property="companySymbolLabel" destination="saB-Wn-Lha" id="KnU-AO-OYP"/>
-                        <outlet property="priceChangeLabel" destination="scg-go-Cf0" id="i9
+                        <outlet property="priceChangeLabel" destination="scg-go-Cf0" id="i9O-qw-lP8"/>
+                        <outlet property="priceLabel
