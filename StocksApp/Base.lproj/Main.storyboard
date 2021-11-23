@@ -123,4 +123,5 @@
                         <outlet property="companySymbolLabel" destination="saB-Wn-Lha" id="KnU-AO-OYP"/>
                         <outlet property="priceChangeLabel" destination="scg-go-Cf0" id="i9O-qw-lP8"/>
                         <outlet property="priceLabel" destination="AI2-5W-Yr1" id="ePx-kI-YDY"/>
-      
+                    </connections>
+                </vie
