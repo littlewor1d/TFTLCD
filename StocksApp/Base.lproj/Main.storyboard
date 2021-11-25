@@ -125,4 +125,4 @@
                         <outlet property="priceLabel" destination="AI2-5W-Yr1" id="ePx-kI-YDY"/>
                     </connections>
                 </viewController>
-                <placeholder placeh
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" s
