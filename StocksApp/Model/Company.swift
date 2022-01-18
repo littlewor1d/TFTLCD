@@ -7,4 +7,7 @@
 
 import Foundation
 
-struct Company: Decod
+struct Company: Decodable {
+    
+    var name: String
+    var symbol: Strin
