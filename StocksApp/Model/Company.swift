@@ -10,4 +10,6 @@ import Foundation
 struct Company: Decodable {
     
     var name: String
-    var symbol: Strin
+    var symbol: String
+    var latestPrice: Double
+    var priceChange: Doub
