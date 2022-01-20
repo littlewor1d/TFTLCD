@@ -15,4 +15,6 @@ struct Company: Decodable {
     var priceChange: Double
     
     enum CodingKeys: String, CodingKey {
-        case 
+        case name = "companyName"
+        case symbol
+        case late
