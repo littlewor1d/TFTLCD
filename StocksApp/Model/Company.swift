@@ -12,4 +12,7 @@ struct Company: Decodable {
     var name: String
     var symbol: String
     var latestPrice: Double
-    var priceChange: Doub
+    var priceChange: Double
+    
+    enum CodingKeys: String, CodingKey {
+        case 
