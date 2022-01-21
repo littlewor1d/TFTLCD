@@ -21,3 +21,6 @@ struct Company: Decodable {
         case priceChange = "change"
     }
     
+}
+
+
