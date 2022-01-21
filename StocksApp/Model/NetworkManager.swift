@@ -1,3 +1,5 @@
 //
 //  NetworkManager.swift
-//  S
+//  StocksApp
+//
+//  Created by Alexey Grebennikov on 18
