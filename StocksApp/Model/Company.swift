@@ -17,4 +17,7 @@ struct Company: Decodable {
     enum CodingKeys: String, CodingKey {
         case name = "companyName"
         case symbol
-        case late
+        case latestPrice
+        case priceChange = "change"
+    }
+    
