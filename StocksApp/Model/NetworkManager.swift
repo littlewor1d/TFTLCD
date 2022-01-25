@@ -7,4 +7,6 @@
 
 import Foundation
 
-class NetworkManager
+class NetworkManager {
+    
+    func loadCompanyInfo(for symbol: String
