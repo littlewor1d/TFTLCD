@@ -9,4 +9,4 @@ import Foundation
 
 class NetworkManager {
     
-    func loadCompanyInfo(for symbol: String
+    func loadCompanyInfo(for symbol: String, completion: @escaping ((Company) -> Void)) -> Void 
