@@ -12,4 +12,6 @@ class NetworkManager {
     func loadCompanyInfo(for symbol: String, completion: @escaping ((Company) -> Void)) -> Void {
         let session = URLSession(configuration: .default)
         let token = "pk_fa4c0a3c281647c8b3ea5c457f3ca46a"
-        guard let url = URL(string: "https://cloud.iexapis.com/stable/stock/\(symbol)/quote?token=\(token)"
+        guard let url = URL(string: "https://cloud.iexapis.com/stable/stock/\(symbol)/quote?token=\(token)") else { return }
+        
+        let dataTask = session.data
