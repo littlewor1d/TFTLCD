@@ -14,4 +14,5 @@ class NetworkManager {
         let token = "pk_fa4c0a3c281647c8b3ea5c457f3ca46a"
         guard let url = URL(string: "https://cloud.iexapis.com/stable/stock/\(symbol)/quote?token=\(token)") else { return }
         
-        let dataTask = session.data
+        let dataTask = session.dataTask(with: url) { (data, response, error) in
+     
