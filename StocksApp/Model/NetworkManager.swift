@@ -17,4 +17,4 @@ class NetworkManager {
         let dataTask = session.dataTask(with: url) { (data, response, error) in
             
             if let data = data,
-       
+               (response as? HTTPURLResponse)?.statusCode == 20
