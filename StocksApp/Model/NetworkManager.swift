@@ -19,4 +19,6 @@ class NetworkManager {
             if let data = data,
                (response as? HTTPURLResponse)?.statusCode == 200,
                error == nil {
-    
+                
+                do {
+               
