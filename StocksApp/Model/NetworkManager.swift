@@ -21,4 +21,4 @@ class NetworkManager {
                error == nil {
                 
                 do {
-               
+                    let company = try JSONDecoder().decode(Company.self, 
