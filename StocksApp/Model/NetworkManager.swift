@@ -21,4 +21,5 @@ class NetworkManager {
                error == nil {
                 
                 do {
-                    let company = try JSONDecoder().decode(Company.self, 
+                    let company = try JSONDecoder().decode(Company.self, from: data)
+                    DispatchQueue.main.as
