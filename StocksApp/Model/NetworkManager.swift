@@ -23,4 +23,7 @@ class NetworkManager {
                 do {
                     let company = try JSONDecoder().decode(Company.self, from: data)
                     DispatchQueue.main.async {
-                        completion(compa
+                        completion(company)
+                    }
+                }
+            
