@@ -28,4 +28,7 @@ class NetworkManager {
                 }
                 catch {
                     print(error)
-   
+                }
+            }
+        }
+        dataTask.re
