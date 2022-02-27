@@ -26,4 +26,6 @@ class NetworkManager {
                         completion(company)
                     }
                 }
-            
+                catch {
+                    print(error)
+   
