@@ -1,3 +1,5 @@
 //
 //  SceneDelegate.swift
-//  Sto
+//  StocksApp
+//
+//  Created by Alexey Grebennikov on 2.05.
