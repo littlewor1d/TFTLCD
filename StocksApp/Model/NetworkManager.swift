@@ -31,4 +31,8 @@ class NetworkManager {
                 }
             }
         }
-        dataTask.re
+        dataTask.resume()
+    }
+    
+}
+
