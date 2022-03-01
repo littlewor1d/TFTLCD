@@ -7,4 +7,6 @@
 
 import UIKit
 
-class SceneDelegate: UIRespon
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var w
