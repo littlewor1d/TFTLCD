@@ -40,3 +40,50 @@ class ViewController: UIViewController {
         companyPickerView.dataSource = self
         companyPickerView.delegate = self
         
+        activityIndicator.hidesWhenStopped = true
+        
+        requestQuoteUpdate()
+        
+    }
+    
+    //MARK: - Network
+
+    private func displayStockInfo(companyName: String,
+                                  companySymbol: String,
+                                  price: Double,
+                                  priceChange: Double) {
+        activityIndicator.stopAnimating()
+        companyNameLabel.text = companyName
+        companySymbolImage.image = UIImage(named: companySymbol)
+        companySymbolLabel.text = nil
+        priceLabel.text = "\(price)"
+        priceChangeLabel.text = "\(priceChange)"
+        
+        if priceChange > 0 {
+            priceChangeLabel.textColor = .green
+        } else if priceChange < 0 {
+            priceChangeLabel.textColor = .red
+        } else {
+            priceChangeLabel.textColor = .black
+        }
+    }
+    
+    private func requestQuoteUpdate() {
+        activityIndicator.startAnimating()
+        companyNameLabel.text = "-"
+        companySymbolLabel.text = "-"
+        priceLabel.text = "-"
+        priceChangeLabel.text = "-"
+        priceChangeLabel.textColor = .black
+        companySymbolImage.image = nil
+        
+        let selectedRow = companyPickerView.selectedRow(inComponent: 0)
+        let selectedSymbol = Array(companies.values)[selectedRow]
+        networkManager.loadCompanyInfo(for: selectedSymbol) { [weak self] company in
+            self?.displayStockInfo(companyName: company.name,
+                                   companySymbol: company.symbol,
+                                   price: company.latestPrice,
+                                   priceChange: company.priceChange)
+            
+        }
+    }
