@@ -87,3 +87,32 @@ class ViewController: UIViewController {
             
         }
     }
+
+}
+
+//MARK: - UIPickerViewDataSource
+
+extension ViewController: UIPickerViewDataSource {
+    
+    func numberOfComponents(in pickerView: UIPickerView) -> Int {
+        1
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        companies.keys.count
+    }
+}
+
+//MARK: - UIPickerViewDelegate
+
+extension ViewController: UIPickerViewDelegate {
+    
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        Array(companies.keys)[row]
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+       requestQuoteUpdate()
+    }
+    
+}
