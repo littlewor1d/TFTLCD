@@ -8,4 +8,4 @@
 
 /* Begin PBXBuildFile section */
 		8457674826543AC900712ECA /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8457674726543AC900712ECA /* NetworkManager.swift */; };
-		8457674A26543
+		8457674A26543B6100712ECA /* Company.swift in Sources */ = {isa = PBX
