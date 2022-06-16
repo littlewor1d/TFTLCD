@@ -18,4 +18,4 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8457674726543AC900712ECA /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sou
+		8457674726543AC900712ECA /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift
