@@ -19,4 +19,4 @@
 
 /* Begin PBXFileReference section */
 		8457674726543AC900712ECA /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		8457674926543B6000712ECA /* 
+		8457674926543B6000712ECA /* Company.swift */ = {isa = PBXFileReference; lastKnownFileTyp
