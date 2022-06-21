@@ -21,4 +21,4 @@
 		8457674726543AC900712ECA /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		8457674926543B6000712ECA /* Company.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Company.swift; sourceTree = "<group>"; };
 		84FC4A52263EA8610074E332 /* StocksApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StocksApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		84FC4A55263EA8610074E3
+		84FC4A55263EA8610074E332 /* AppDelegate.swift */ = {isa = PBXFileReference; last
