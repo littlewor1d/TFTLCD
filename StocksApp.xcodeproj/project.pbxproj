@@ -31,4 +31,5 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		84FC4A4F263EA861007
+		84FC4A4F263EA8610074E332 /* Frameworks */ = {
+			isa = PBXFrameworksBuildP
