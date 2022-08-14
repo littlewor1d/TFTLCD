@@ -44,4 +44,5 @@
 		8457674626543AAA00712ECA /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				8457674726
+				8457674726543AC900712ECA /* NetworkManager.swift */,
+				
