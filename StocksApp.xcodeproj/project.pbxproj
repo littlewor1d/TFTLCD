@@ -45,4 +45,4 @@
 			isa = PBXGroup;
 			children = (
 				8457674726543AC900712ECA /* NetworkManager.swift */,
-				
+				8457674926543B6000712ECA /* Company.swift */
