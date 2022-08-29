@@ -51,4 +51,6 @@
 			sourceTree = "<group>";
 		};
 		84FC4A49263EA8610074E332 = {
-			isa = PBXGrou
+			isa = PBXGroup;
+			children = (
+				84FC4A54263EA8610074E3
