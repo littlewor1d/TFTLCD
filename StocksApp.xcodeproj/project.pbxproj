@@ -54,4 +54,6 @@
 			isa = PBXGroup;
 			children = (
 				84FC4A54263EA8610074E332 /* StocksApp */,
-				84FC4A53263EA8610074E332
+				84FC4A53263EA8610074E332 /* Products */,
+			);
+			sourceTree
