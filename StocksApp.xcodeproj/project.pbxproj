@@ -67,4 +67,6 @@
 			sourceTree = "<group>";
 		};
 		84FC4A54263EA8610074E332 /* StocksApp */ = {
-			isa = PBXGro
+			isa = PBXGroup;
+			children = (
+				8457674626543AAA00712EC
