@@ -60,4 +60,7 @@
 		};
 		84FC4A53263EA8610074E332 /* Products */ = {
 			isa = PBXGroup;
-			children 
+			children = (
+				84FC4A52263EA8610074E332 /* StocksApp.app */,
+			);
+			nam
