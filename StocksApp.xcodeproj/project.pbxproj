@@ -66,4 +66,5 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-	
+		84FC4A54263EA8610074E332 /* StocksApp */ = {
+			isa = PBXGro
