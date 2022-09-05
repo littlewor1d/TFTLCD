@@ -74,4 +74,5 @@
 				84FC4A57263EA8610074E332 /* SceneDelegate.swift */,
 				84FC4A59263EA8610074E332 /* ViewController.swift */,
 				84FC4A5B263EA8610074E332 /* Main.storyboard */,
-				84FC4A5E263EA8630
+				84FC4A5E263EA8630074E332 /* Assets.xcassets */,
+				
