@@ -71,4 +71,5 @@
 			children = (
 				8457674626543AAA00712ECA /* Model */,
 				84FC4A55263EA8610074E332 /* AppDelegate.swift */,
-				84FC4A57263
+				84FC4A57263EA8610074E332 /* SceneDelegate.swift */,
+				84FC4A59263E
