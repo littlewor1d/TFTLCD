@@ -76,4 +76,7 @@
 				84FC4A5B263EA8610074E332 /* Main.storyboard */,
 				84FC4A5E263EA8630074E332 /* Assets.xcassets */,
 				84FC4A60263EA8630074E332 /* LaunchScreen.storyboard */,
-				84FC4A63263EA8630074E332 
+				84FC4A63263EA8630074E332 /* Info.plist */,
+			);
+			path = StocksApp;
+			sourceTree 
