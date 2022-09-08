@@ -84,4 +84,5 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84FC4A51263EA8
+		84FC4A51263EA8610074E332 /* StocksApp */ = {
+			isa = PBXNativeTarget;
