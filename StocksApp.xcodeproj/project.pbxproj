@@ -97,4 +97,5 @@
 			dependencies = (
 			);
 			name = StocksApp;
-			productNa
+			productName = StocksApp;
+			productReference = 84FC4
