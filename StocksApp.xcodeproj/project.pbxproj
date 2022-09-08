@@ -89,4 +89,5 @@
 			buildConfigurationList = 84FC4A66263EA8630074E332 /* Build configuration list for PBXNativeTarget "StocksApp" */;
 			buildPhases = (
 				84FC4A4E263EA8610074E332 /* Sources */,
-				84FC4A4F263EA8610074E
+				84FC4A4F263EA8610074E332 /* Frameworks */,
+				84FC4A50263EA8610074E332 /
