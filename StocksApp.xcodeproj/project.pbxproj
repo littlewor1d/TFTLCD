@@ -90,4 +90,8 @@
 			buildPhases = (
 				84FC4A4E263EA8610074E332 /* Sources */,
 				84FC4A4F263EA8610074E332 /* Frameworks */,
-				84FC4A50263EA8610074E332 /
+				84FC4A50263EA8610074E332 /* Resources */,
+			);
+			buildRules = (
+			);
+		
