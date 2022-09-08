@@ -86,4 +86,6 @@
 /* Begin PBXNativeTarget section */
 		84FC4A51263EA8610074E332 /* StocksApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84FC4A66263EA8630074E332 /* Build configuration list for PBXNativeTarget "StocksA
+			buildConfigurationList = 84FC4A66263EA8630074E332 /* Build configuration list for PBXNativeTarget "StocksApp" */;
+			buildPhases = (
+				84FC4A4E263EA8610074
