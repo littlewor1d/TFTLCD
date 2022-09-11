@@ -98,4 +98,5 @@
 			);
 			name = StocksApp;
 			productName = StocksApp;
-			productReference = 84FC4
+			productReference = 84FC4A52263EA8610074E332 /* StocksApp.app */;
+	
