@@ -99,4 +99,4 @@
 			name = StocksApp;
 			productName = StocksApp;
 			productReference = 84FC4A52263EA8610074E332 /* StocksApp.app */;
-	
+			productType = "com.apple.product-type.applica
