@@ -109,4 +109,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
-				TargetAttributes = 
+				TargetAttributes = {
+					84FC4A51263EA8610074E332 = {
+						CreatedOnTools
