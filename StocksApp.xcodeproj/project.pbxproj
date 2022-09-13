@@ -105,4 +105,7 @@
 
 /* Begin PBXProject section */
 		84FC4A4A263EA8610074E332 /* Project object */ = {
-			isa = PBXProj
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+	
