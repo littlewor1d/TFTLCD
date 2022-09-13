@@ -115,4 +115,4 @@
 					};
 				};
 			};
-			buildConfiguratio
+			buildConfigurationList = 84FC4A4D263EA8610074E332 /* Build configuration list
