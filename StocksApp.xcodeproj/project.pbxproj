@@ -111,4 +111,8 @@
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
 					84FC4A51263EA8610074E332 = {
-						CreatedOnTools
+						CreatedOnToolsVersion = 12.5;
+					};
+				};
+			};
+			buildConfiguratio
