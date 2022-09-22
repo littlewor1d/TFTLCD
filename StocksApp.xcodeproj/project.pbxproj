@@ -131,4 +131,6 @@
 				84FC4A51263EA8610074E332 /* StocksApp */,
 			);
 		};
-/* En
+/* End PBXProject section */
+
+/* Begin PBXResources
