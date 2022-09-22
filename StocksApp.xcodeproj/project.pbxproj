@@ -125,4 +125,7 @@
 			);
 			mainGroup = 84FC4A49263EA8610074E332;
 			productRefGroup = 84FC4A53263EA8610074E332 /* Products */;
-			pr
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84FC4A512
