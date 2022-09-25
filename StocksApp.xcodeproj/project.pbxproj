@@ -134,4 +134,5 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		84FC4A50263EA86
+		84FC4A50263EA8610074E332 /* Resources */ = {
+			isa = PBXResource
