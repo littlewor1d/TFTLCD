@@ -144,4 +144,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PB
