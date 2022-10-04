@@ -148,4 +148,5 @@
 
 /* Begin PBXSourcesBuildPhase section */
 		84FC4A4E263EA8610074E332 /* Sources */ = {
-			isa 
+			isa = PBXSourcesBuildPhase;
+			buildActionMas
