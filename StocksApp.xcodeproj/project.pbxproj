@@ -151,4 +151,5 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8457674826543AC900712ECA
+				8457674826543AC900712ECA /* NetworkManager.swift in Sources */,
+				8
