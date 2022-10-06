@@ -154,4 +154,5 @@
 				8457674826543AC900712ECA /* NetworkManager.swift in Sources */,
 				84FC4A5A263EA8610074E332 /* ViewController.swift in Sources */,
 				84FC4A56263EA8610074E332 /* AppDelegate.swift in Sources */,
-				8457674A26543B6100712ECA /* 
+				8457674A26543B6100712ECA /* Company.swift in Sources */,
+				84FC4A58263E
