@@ -178,4 +178,6 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-/*
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfigurati
