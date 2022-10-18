@@ -167,4 +167,7 @@
 			children = (
 				84FC4A5C263EA8610074E332 /* Base */,
 			);
-			name = Main.storybo
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84FC4A60263EA8630074E
