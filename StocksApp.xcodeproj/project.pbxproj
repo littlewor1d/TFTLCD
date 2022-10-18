@@ -165,4 +165,6 @@
 		84FC4A5B263EA8610074E332 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84FC4A5C263EA8610074E3
+				84FC4A5C263EA8610074E332 /* Base */,
+			);
+			name = Main.storybo
