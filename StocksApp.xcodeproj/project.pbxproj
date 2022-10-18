@@ -163,4 +163,6 @@
 
 /* Begin PBXVariantGroup section */
 		84FC4A5B263EA8610074E332 /* Main.storyboard */ = {
-			isa = PBXVariantGro
+			isa = PBXVariantGroup;
+			children = (
+				84FC4A5C263EA8610074E3
