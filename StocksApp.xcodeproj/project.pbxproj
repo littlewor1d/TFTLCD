@@ -184,4 +184,5 @@
 		84FC4A64263EA8630074E332 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_N
