@@ -182,4 +182,6 @@
 
 /* Begin XCBuildConfiguration section */
 		84FC4A64263EA8630074E332 /* Debug */ = {
-			i
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				
