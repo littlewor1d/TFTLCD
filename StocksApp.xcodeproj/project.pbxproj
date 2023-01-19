@@ -295,4 +295,6 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
-			na
+			name = Release;
+		};
+		84FC4A67263EA8630074E332 /* Debug */
