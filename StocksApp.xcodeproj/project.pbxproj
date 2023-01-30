@@ -299,4 +299,5 @@
 		};
 		84FC4A67263EA8630074E332 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSet
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIc
