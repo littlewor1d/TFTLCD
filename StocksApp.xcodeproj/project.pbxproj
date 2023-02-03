@@ -305,4 +305,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 76M96Q7XDF;
 				INFOPLIST_FILE = StocksApp/Info.plist;
-				LD_RUN
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@ex
