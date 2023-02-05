@@ -307,4 +307,6 @@
 				INFOPLIST_FILE = StocksApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@ex
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFI
