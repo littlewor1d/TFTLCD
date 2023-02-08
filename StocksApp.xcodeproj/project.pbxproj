@@ -317,4 +317,6 @@
 			name = Debug;
 		};
 		84FC4A68263EA8630074E332 /* Release */ = {
-			isa = XCBuild
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCA
