@@ -316,4 +316,5 @@
 			};
 			name = Debug;
 		};
-		84F
+		84FC4A68263EA8630074E332 /* Release */ = {
+			isa = XCBuild
