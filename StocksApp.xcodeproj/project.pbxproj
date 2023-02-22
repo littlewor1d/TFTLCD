@@ -328,4 +328,6 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.grebennikov.StocksA
+				PRODUCT_BUNDLE_IDENTIFIER = com.grebennikov.StocksApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION
