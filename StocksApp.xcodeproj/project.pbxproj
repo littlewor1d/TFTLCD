@@ -335,4 +335,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration secti
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84FC4A
