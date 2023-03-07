@@ -338,4 +338,5 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84FC4A4D263EA8610074E332 /* Build configuration 
+		84FC4A4D263EA8610074E332 /* Build configuration list for PBXProject "StocksApp" */ = {
+			isa = X
