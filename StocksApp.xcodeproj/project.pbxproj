@@ -341,3 +341,5 @@
 		84FC4A4D263EA8610074E332 /* Build configuration list for PBXProject "StocksApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
+				84FC4A64263EA8630074E332 /* Debug */,
+				84FC4A6526
