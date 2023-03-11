@@ -347,4 +347,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84FC4A66263EA8630074E332 /
+		84FC4A66263EA8630074E332 /* Build configuration list for PBXNativeTarget "StocksA
