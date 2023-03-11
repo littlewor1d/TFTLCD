@@ -349,4 +349,5 @@
 		};
 		84FC4A66263EA8630074E332 /* Build configuration list for PBXNativeTarget "StocksApp" */ = {
 			isa = XCConfigurationList;
-			buil
+			buildConfigurations = (
+				84FC4A67263EA8630074E332 /* Debug
