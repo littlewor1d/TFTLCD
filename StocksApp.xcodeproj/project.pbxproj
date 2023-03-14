@@ -354,4 +354,6 @@
 				84FC4A68263EA8630074E332 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			default
+			defaultConfigurationName = Release;
+		};
+/* End XCCo
