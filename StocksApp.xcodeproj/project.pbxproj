@@ -356,4 +356,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-/* End XCCo
+/* End XCConfigurationList section */
+	};
+	rootObject = 84FC4A4
